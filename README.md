@@ -1,6 +1,6 @@
 # DentaPlan: Weekly Dental Appointment Planner
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Auswl/generated-app-20251004-141916)
 
 DentaPlan is a sophisticated, visually stunning weekly appointment planner designed for dental practices. It provides a comprehensive suite of tools for managing patient schedules, profiles, and practice hours in a clean, intuitive, and highly responsive single-page application. The application features a dynamic 7-day calendar grid, allowing staff to navigate between weeks, view appointments at a glance, and book new ones by simply clicking on an available time slot.
 
@@ -78,7 +78,7 @@ This application is designed for easy deployment to Cloudflare Pages.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Auswl/generated-app-20251004-141916)
 
 ## 📁 Project Structure
 
